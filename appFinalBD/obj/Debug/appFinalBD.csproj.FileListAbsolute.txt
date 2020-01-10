@@ -1,0 +1,48 @@
+c:\users\david garcia\documents\visual studio 2015\Projects\appFinalBD\appFinalBD\bin\Debug\appFinalBD.exe.config
+c:\users\david garcia\documents\visual studio 2015\Projects\appFinalBD\appFinalBD\bin\Debug\appFinalBD.exe
+c:\users\david garcia\documents\visual studio 2015\Projects\appFinalBD\appFinalBD\bin\Debug\appFinalBD.pdb
+c:\users\david garcia\documents\visual studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.Properties.Resources.resources
+c:\users\david garcia\documents\visual studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.csproj.GenerateResource.Cache
+c:\users\david garcia\documents\visual studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.exe
+c:\users\david garcia\documents\visual studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.pdb
+C:\Users\David Garcia\Documents\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.RegSindicalista.resources
+C:\Users\David Garcia\Documents\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.ActSindicalista.resources
+C:\Users\David Garcia\Documents\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.UI.FormPrincipal.resources
+C:\Users\David Garcia\Documents\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.UI.FormActSindicato.resources
+C:\Users\David Garcia\Documents\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.UI.FormRegEmpresa.resources
+C:\Users\David Garcia\Documents\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.UI.FormRegSindicato.resources
+C:\Users\David Garcia\Documents\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.UI.FormRegistarAGR.resources
+C:\Users\David Garcia\Documents\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.csprojResolveAssemblyReference.cache
+C:\Users\David Garcia\Documents\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.FormEliminacion.resources
+E:\documentos\Visual Studio 2015\Projects\appFinalBD\appFinalBD\bin\Debug\appFinalBD.exe.config
+E:\documentos\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.pdb
+E:\documentos\Visual Studio 2015\Projects\appFinalBD\appFinalBD\bin\Debug\appFinalBD.exe
+E:\documentos\Visual Studio 2015\Projects\appFinalBD\appFinalBD\bin\Debug\appFinalBD.pdb
+E:\documentos\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.csprojResolveAssemblyReference.cache
+E:\documentos\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.ActSindicalista.resources
+E:\documentos\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.UI.FormActSindicato.resources
+E:\documentos\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.FormEliminacion.resources
+E:\documentos\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.UI.FormPrincipal.resources
+E:\documentos\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.UI.FormRegistarAGR.resources
+E:\documentos\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.UI.FormRegEmpresa.resources
+E:\documentos\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.RegSindicalista.resources
+E:\documentos\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.Properties.Resources.resources
+E:\documentos\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.UI.FormRegSindicato.resources
+E:\documentos\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.csproj.GenerateResource.Cache
+E:\documentos\Visual Studio 2015\Projects\appFinalBD\appFinalBD\obj\Debug\appFinalBD.exe
+E:\Extras\Visual Studio\appFinalBD\appFinalBD\bin\Debug\appFinalBD.exe.config
+E:\Extras\Visual Studio\appFinalBD\appFinalBD\bin\Debug\appFinalBD.exe
+E:\Extras\Visual Studio\appFinalBD\appFinalBD\bin\Debug\appFinalBD.pdb
+E:\Extras\Visual Studio\appFinalBD\appFinalBD\obj\Debug\appFinalBD.csprojResolveAssemblyReference.cache
+E:\Extras\Visual Studio\appFinalBD\appFinalBD\obj\Debug\appFinalBD.ActSindicalista.resources
+E:\Extras\Visual Studio\appFinalBD\appFinalBD\obj\Debug\appFinalBD.UI.FormActSindicato.resources
+E:\Extras\Visual Studio\appFinalBD\appFinalBD\obj\Debug\appFinalBD.FormEliminacion.resources
+E:\Extras\Visual Studio\appFinalBD\appFinalBD\obj\Debug\appFinalBD.UI.FormPrincipal.resources
+E:\Extras\Visual Studio\appFinalBD\appFinalBD\obj\Debug\appFinalBD.UI.FormRegistarAGR.resources
+E:\Extras\Visual Studio\appFinalBD\appFinalBD\obj\Debug\appFinalBD.UI.FormRegEmpresa.resources
+E:\Extras\Visual Studio\appFinalBD\appFinalBD\obj\Debug\appFinalBD.RegSindicalista.resources
+E:\Extras\Visual Studio\appFinalBD\appFinalBD\obj\Debug\appFinalBD.Properties.Resources.resources
+E:\Extras\Visual Studio\appFinalBD\appFinalBD\obj\Debug\appFinalBD.UI.FormRegSindicato.resources
+E:\Extras\Visual Studio\appFinalBD\appFinalBD\obj\Debug\appFinalBD.csproj.GenerateResource.Cache
+E:\Extras\Visual Studio\appFinalBD\appFinalBD\obj\Debug\appFinalBD.exe
+E:\Extras\Visual Studio\appFinalBD\appFinalBD\obj\Debug\appFinalBD.pdb
